@@ -1,3 +1,4 @@
 import translate as tr
 
-tr.translate()
+tr.translate('en')
+tr.translate('ru')
